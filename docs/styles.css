@@ -1,0 +1,34 @@
+/* Navbar tweaks */
+.navbar {
+  border-bottom: 2px solid #dee2e6;
+}
+
+
+/* Button style for CV download */
+.btn-primary {
+  background-color: #0d6efd;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  color: white;
+  text-decoration: none;
+}
+
+.btn-primary:hover {
+  background-color: #0b5ed7;
+  color: white;
+}
+
+/* Consistent section spacing */
+h2 {
+  margin-top: 2rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid #dee2e6;
+}
+
+ /* figure captions */
+.fig-caption {
+  text-align: center;
+  color: #555555;
+  font-style: italic;
+}

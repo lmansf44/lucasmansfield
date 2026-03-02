@@ -13,8 +13,7 @@ website:
         text: Research
       - href: cv.qmd
         text: CV
-      - href: photos.qmd
-        text: Photos
+
 
 format:
   html:

@@ -1,5 +1,5 @@
 ---
-title: "Your Name"
+title: "Lucas Mansfield"
 ---
 
 :::: {.columns}
@@ -11,18 +11,16 @@ title: "Your Name"
 ::: {.column width="70%"}
 ## About Me
 
-Hi! I'm **Your Name**, a [PhD student / postdoc / researcher] at **Your University** in the Department of [Your Department].
+Hi! I'm **Lucas Mansfield**, and I'm an ecologist with interests in birds, ecological communities, spatial analyses, and global change ecology. 
 
-I work on [brief description of your research area — e.g., "computational methods for understanding climate systems"]. I'm advised by [Advisor Name].
+I'm currently a PhD student at **Michigan State University** in the Department of Integrative Biology and Ecology, Evolution, and Behavior program as a part of the [Spatial and Community Ecology (SpaCE) Lab](https://www.communityecologylab.com/).
 
-Before [current position], I completed my [degree] at [Previous Institution].
+My current work focuses on species interaction networks, and understanding the drivers of ecological network change across temporal and spatial scales in North America. To do this, I am leveraging data on species interactions, species occurrences, land cover change, and climate.
 
 ### Contact
 
-- 📧 [your.email@university.edu](mailto:your.email@university.edu)
-- 🐦 [@yourhandle](https://twitter.com/yourhandle)
-- 💼 [GitHub](https://github.com/yourusername)
-- 🎓 [Google Scholar](https://scholar.google.com)
+- [mansfi79@msu.edu](mailto:mansfi79@msu.edu)
+- [GitHub](https://github.com/lmansf44)
 :::
 
 ::::

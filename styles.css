@@ -1,19 +1,8 @@
-/* Custom styles for your research website */
-
 /* Navbar tweaks */
 .navbar {
   border-bottom: 2px solid #dee2e6;
 }
 
-/* Profile image on landing page */
-img[src*="profile"] {
-  border: 3px solid #dee2e6;
-}
-
-/* Publication entries */
-strong + br {
-  line-height: 2;
-}
 
 /* Button style for CV download */
 .btn-primary {
@@ -35,4 +24,11 @@ h2 {
   margin-top: 2rem;
   padding-bottom: 0.3rem;
   border-bottom: 1px solid #dee2e6;
+}
+
+ /* figure captions */
+.fig-caption {
+  text-align: center;
+  color: #555555;
+  font-style: italic;
 }
