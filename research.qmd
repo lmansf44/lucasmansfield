@@ -1,0 +1,46 @@
+---
+title: "Research"
+---
+
+## Research Interests
+
+Briefly describe your broad research interests here — what questions motivate your work and why they matter.
+
+---
+
+## Publications
+
+### Journal Articles
+
+**Paper Title Here** (2024)  
+Your Name, Co-author Name, Co-author Name  
+*Journal Name*, vol(issue), pages.  
+[[PDF]](#) [[Code]](#) [[DOI]](#)
+
+---
+
+### Conference Papers
+
+**Conference Paper Title** (2023)  
+Your Name, Co-author Name  
+*Conference Name (VENUE'23)*  
+[[PDF]](#) [[Poster]](#)
+
+---
+
+## Working Papers
+
+**Working Paper Title**  
+Your Name  
+*Brief one-sentence description of what this paper is about.*  
+[[Preprint]](#)
+
+---
+
+## Research Projects
+
+### Project Name
+A short paragraph describing the project, your role, and its goals. You can include an image or figure here if helpful.
+
+### Another Project
+Another short paragraph here.

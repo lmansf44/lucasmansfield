@@ -1,0 +1,28 @@
+---
+title: "Your Name"
+---
+
+:::: {.columns}
+
+::: {.column width="30%"}
+![](images/profile.jpg){width=200px style="border-radius: 50%;"}
+:::
+
+::: {.column width="70%"}
+## About Me
+
+Hi! I'm **Your Name**, a [PhD student / postdoc / researcher] at **Your University** in the Department of [Your Department].
+
+I work on [brief description of your research area — e.g., "computational methods for understanding climate systems"]. I'm advised by [Advisor Name].
+
+Before [current position], I completed my [degree] at [Previous Institution].
+
+### Contact
+
+- 📧 [your.email@university.edu](mailto:your.email@university.edu)
+- 🐦 [@yourhandle](https://twitter.com/yourhandle)
+- 💼 [GitHub](https://github.com/yourusername)
+- 🎓 [Google Scholar](https://scholar.google.com)
+:::
+
+::::

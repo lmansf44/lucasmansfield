@@ -1,0 +1,44 @@
+---
+title: "Photos"
+---
+
+A few snapshots from fieldwork, conferences, and life outside the lab.
+
+---
+
+### Fieldwork / Lab
+
+:::: {.columns}
+::: {.column width="50%"}
+![Caption describing the photo](images/photo1.jpg)
+:::
+::: {.column width="50%"}
+![Caption describing the photo](images/photo2.jpg)
+:::
+::::
+
+---
+
+### Conferences & Events
+
+:::: {.columns}
+::: {.column width="50%"}
+![Caption here](images/photo3.jpg)
+:::
+::: {.column width="50%"}
+![Caption here](images/photo4.jpg)
+:::
+::::
+
+---
+
+### Personal / Travel
+
+:::: {.columns}
+::: {.column width="50%"}
+![Caption here](images/photo5.jpg)
+:::
+::: {.column width="50%"}
+![Caption here](images/photo6.jpg)
+:::
+::::
